@@ -54,7 +54,7 @@ I wish I could mixed them all into something big in the future :>
 <img align="left" src="https://media.tenor.com/cehm5654j8EAAAAC/hu-tao-genshin.gif" width="300" height="200" />
 
 <a href="https://www.youtube.com/embed/1Cbu7IhZxys" target="_blank">
- <img src="./assets/ytcover3.png" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="./assets/ytcover3.png" alt="Watch the video" width="300" height="200" />
 </a>
 
 
