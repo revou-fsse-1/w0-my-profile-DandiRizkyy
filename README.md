@@ -1,6 +1,5 @@
 # <p align = "center">Hello Amazing People ~ <img src="https://raw.githubusercontent.com/DandiRizkyy/slackmoji/master/emoji/blob/blob-wave-gif.gif" width="50px" height="50px" alt="hello">
-> This is an assignment for "My Profile." 
----
+
 ## <p align = "center">😉 My Bio
 ---
 
@@ -12,27 +11,23 @@ Hello !
 -----
 ## <p align = "center"> 📫 Connect With Me  
 -----
-- Facebook : [Dandi Rizky Eko Saputro](https://www.facebook.com/dandirizkyy94/)
+- Facebook : <details><summary>Open Link</summary>
+[Dandi Rizky Eko Saputro](https://www.facebook.com/dandirizkyy94/)
 ![Facebook Photo](./assets/myfacebook.png)
 
-- Instagram : [@dand_ndi](https://www.instagram.com/dand_ndi/?hl=id)
+- Instagram : <details><summary>Open Link</summary>[@dand_ndi](https://www.instagram.com/dand_ndi/?hl=id)
 ![Instagram Photo](./assets/myinstagram.png)
 
-- YouTube : [Danzyko](https://www.youtube.com/@Danzyko/about)\
+- YouTube : <details><summary>Open Link</summary>[Danzyko](https://www.youtube.com/@Danzyko/about)\
 ![YouTube Photo](./assets/myyt.png)
 
-- Discord : [Dann#4013](https://discord.gg/u838aV7m2E)
-
-<p align = "center"><img src="./assets/mydiscord.png" width="300"/>
-
-
-- Linktree : [link.tree/Danzyko](https://linktr.ee/Danzyko?fbclid=IwAR1lXNo3tazSDnpp9comVpR_2bT0GcANjvOfU1PFdTBi5qZkrdgw0jLNs6M)
+- Linktree : <details><summary>Open Link</summary>[link.tree/Danzyko](https://linktr.ee/Danzyko?fbclid=IwAR1lXNo3tazSDnpp9comVpR_2bT0GcANjvOfU1PFdTBi5qZkrdgw0jLNs6M)
 ![linktree Photo](./assets/mylinktree.png)
 
-- LinkedIn : [Dandi Rizky](https://www.linkedin.com/in/dandirizkyy/)
+- LinkedIn : <details><summary>Open Link</summary>[Dandi Rizky](https://www.linkedin.com/in/dandirizkyy/)
 ![Linkedin Photo](./assets/mylinkedin.png)
 
-- Github : [DandiRizkyy](https://github.com/DandiRizkyy)
+- Github : <details><summary>Open Link</summary>[DandiRizkyy](https://github.com/DandiRizkyy)
 ![Github Photo](./assets/mygithub.png)
 
 ---
