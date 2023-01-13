@@ -7,7 +7,7 @@
 <p align="center"> <img src="./assets/me.jpg" width="250"/></p>
 
 Hello ! 
-<p>My name is Dandi Rizky Eko Saputro, you can call me Dandi. Currently I'm learning Software Engineering at RevoU. 
+<p>My name is Dandi Rizky Eko Saputro, you can call me Dandi. Currently learning Software Engineering at RevoU. 
 
 -----
 ## <p align = "center"> 📫 Connect With Me  
