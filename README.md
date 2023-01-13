@@ -15,7 +15,8 @@ Hello !
 [Dandi Rizky Eko Saputro](https://www.facebook.com/dandirizkyy94/)
 ![Facebook Photo](./assets/myfacebook.png)
 
-- Instagram : <details><summary>Open Link</summary>[@dand_ndi](https://www.instagram.com/dand_ndi/?hl=id)
+- Instagram : <details><summary>Open Link</summary>
+[@dand_ndi](https://www.instagram.com/dand_ndi/?hl=id)
 ![Instagram Photo](./assets/myinstagram.png)
 
 - YouTube : <details><summary>Open Link</summary>[Danzyko](https://www.youtube.com/@Danzyko/about)\
