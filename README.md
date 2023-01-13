@@ -2,7 +2,7 @@
 
 
 
-<p align="center"> <img src="./assets/me.jpg" width="250"/></p>
+<p align="center"> <img src="./assets/me.jpg" width="350"/></p>
 
 Hello ! 
 <p>My name is Dandi Rizky Eko Saputro, you can call me Dandi. Currently learning Software Engineering at RevoU. 
