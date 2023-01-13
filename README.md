@@ -50,8 +50,7 @@ Hello !
 ---
 1. Code Editor and Visual Studio Code <p><img height="20" title="VSCode" alt="VS Code Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
 
-2. Git / Github <p><img height="20" title="Git" alt="Git" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4">
-<img height="20" title="GitHub" alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+2. Git / Github <p><img height="20" title="Git" alt="Git" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"><img height="20" title="GitHub" alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
 
 3. Terminal / CLI <p><img height="15" title="Terminal" alt="Terminal" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/2560px-Windows_Terminal_logo.svg.png">
 
