@@ -12,12 +12,12 @@ Hello !
 ## <p align = "center"> 📫 Connect With Me  
 -----
 - Facebook : <details><summary>Open Link</summary>
-[Dandi Rizky Eko Saputro](https://www.facebook.com/dandirizkyy94/)
+[<p>Dandi Rizky Eko Saputro</p>](https://www.facebook.com/dandirizkyy94/)
 ![Facebook Photo](./assets/myfacebook.png)
 
 - Instagram : <details><summary>Open Link</summary>
 [<p>@dand_ndi</p>](https://www.instagram.com/dand_ndi/?hl=id)
-![<p align="center">Instagram Photo](./assets/myinstagram.png)
+![<p align="center">Instagram Photo</p>](./assets/myinstagram.png)
 
 
 - YouTube : <details><summary>Open Link</summary>[Danzyko](https://www.youtube.com/@Danzyko/about)
