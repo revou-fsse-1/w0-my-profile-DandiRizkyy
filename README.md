@@ -37,10 +37,15 @@ Hello !
 ---
 ## <p align = "center">🎬 Some of My Youtube Videos
 ---
+<img align="left" src="https://media.tenor.com/Nqp7u4Oi1voAAAAC/pointing-anime.gif" width="300" height="200" />
 
-[<p align = "center">![Watch the video](./assets/ytcover2.png)](https://www.youtube.com/watch?v=XMTjWsN4OfI)
+[<p align = "">![Watch the video](./assets/ytcover2.png)](https://www.youtube.com/watch?v=XMTjWsN4OfI)
 
-[<p align = "center">![Watch the video](./assets/ytcover1.png)](https://youtu.be/ULYp-qjuM6w)
+<img align="right" src="https://media.tenor.com/p3cjLkEg5p8AAAAi/point-left.gif" width="300" height="200" />
+
+[<p align = "left">![Watch the video](./assets/ytcover1.png)](https://youtu.be/ULYp-qjuM6w)
+
+<img align="left" src="https://media.tenor.com/cehm5654j8EAAAAC/hu-tao-genshin.gif" width="300" height="200" />
 
 [<p align = "center">![Watch the video](./assets/ytcover3.png)](https://youtu.be/1Cbu7IhZxys)
 
