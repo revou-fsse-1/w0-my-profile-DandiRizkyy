@@ -53,7 +53,7 @@ I wish I could mixed them all into something big in the future :>
 
 <img align="left" src="https://media.tenor.com/cehm5654j8EAAAAC/hu-tao-genshin.gif" width="300" height="200" />
 
-[<p align = "">![Watch the video](./assets/ytcover3.png)](https://youtu.be/1Cbu7IhZxys)
+[<p align = "">![Watch the video](./assets/ytcover3.png)(https://youtu.be/1Cbu7IhZxys)]
 
 ---
 ## <p align ="center">💼 My Technical Skills
