@@ -41,7 +41,7 @@ Hello !
 
 [<p align = "">![Watch the video](./assets/ytcover2.png)](https://www.youtube.com/watch?v=XMTjWsN4OfI)
 
-<img align="left" src="https://media.tenor.com/M3I1BUVYHsEAAAAC/104.gif" width="300" height="200" />
+<img align="left" src="https://media.tenor.com/QpNqIXp1fFAAAAAM/epic-gamer-moves-pointing.gif" width="300" height="200" />
 
 [<p align = "">![Watch the video](./assets/ytcover1.png)](https://youtu.be/ULYp-qjuM6w)
 
