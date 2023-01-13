@@ -17,7 +17,7 @@ Hello !
 
 - Instagram : <details><summary>Open Link</summary>
 [@dand_ndi](https://www.instagram.com/dand_ndi/?hl=id)
-![<p align = "center" height = "50px">Instagram Photo](./assets/myinstagram.png)
+![<p align = "center" height = "50px" width = "70px">Instagram Photo](./assets/myinstagram.png)
 
 - YouTube : <details><summary>Open Link</summary>[Danzyko](https://www.youtube.com/@Danzyko/about)
 ![YouTube Photo](./assets/myyt.png)
