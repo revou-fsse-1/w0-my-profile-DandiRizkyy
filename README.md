@@ -5,20 +5,20 @@
 Hello ! 
 I'm Dandi Rizky Eko Saputro, you can call me Dandi.
 
-![Dandi Rizky Photo](/assets/me.jpg)
+![Dandi Rizky Photo](./assets/me.jpg)
 
 im an ...
 
 ## My Links
 
 - Facebook : [Dandi Rizky Eko Saputro](https://www.facebook.com/dandirizkyy94/)
-![Facebook Photo](/assets/myfacebook.png)
+![Facebook Photo](./assets/myfacebook.png)
 
 - Instagram : [@dand_ndi](https://www.instagram.com/dand_ndi/?hl=id)
-![Instagram Photo](/assets/myinstagram.png)
+![Instagram Photo](./assets/myinstagram.png)
 
 - YouTube : [Danzyko](https://www.youtube.com/@Danzyko/about)\
-![YouTube Photo](/assets/myyt.png)
+![YouTube Photo](./assets/myyt.png)
 
 - Discord : [Dann#4013](https://discord.gg/u838aV7m2E)
 
