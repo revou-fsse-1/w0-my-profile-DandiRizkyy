@@ -49,7 +49,9 @@ I wish I could mixed them all into something big in the future :>
 
 <img align="left" src="https://media.tenor.com/QpNqIXp1fFAAAAAM/epic-gamer-moves-pointing.gif" width="300" height="200" />
 
-[<p align = "">![Watch the video](./assets/ytcover1.png)](https://youtu.be/ULYp-qjuM6w)
+<a href="https://www.youtube.com/embed/ULYp-qjuM6w" target="_blank">
+ <img src="./assets/ytcover1.png" alt="Watch the video" width="300" height="200" />
+</a>
 
 <img align="left" src="https://media.tenor.com/cehm5654j8EAAAAC/hu-tao-genshin.gif" width="300" height="200" />
 
