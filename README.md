@@ -53,12 +53,10 @@ I wish I could mixed them all into something big in the future :>
 
 <img align="left" src="https://media.tenor.com/cehm5654j8EAAAAC/hu-tao-genshin.gif" width="300" height="200" />
 
-[<p align = "">![Watch the video](./assets/ytcover3.png)](https://youtu.be/1Cbu7IhZxys)
-
-<img align="left" src="https://media.tenor.com/cehm5654j8EAAAAC/hu-tao-genshin.gif" width="300" height="200" />
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
- <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+<a href="https://www.youtube.com/embed/1Cbu7IhZxys" target="_blank">
+ <img src="./assets/ytcover3.png" alt="Watch the video" width="240" height="180" border="10" />
 </a>
+
 
 ---
 ## <p align ="center">💼 My Technical Skills
