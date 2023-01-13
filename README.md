@@ -7,7 +7,7 @@
 <p align="center"> <img src="./assets/me.jpg" width="250"/></p>
 
 Hello ! 
-<p>I'm Dandi Rizky Eko Saputro, you can call me Dandi. Currently I'm learning Software Engineering at RevoU. 
+<p>My name is Dandi Rizky Eko Saputro, you can call me Dandi. Currently I'm learning Software Engineering at RevoU. 
 
 -----
 ## <p align = "center"> 📫 Connect With Me  
@@ -56,7 +56,7 @@ Hello !
 
 4. C <p><img height="20" title="Clang" alt="Calanguage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
 
-5. HTML <p><img height="30" title="HTML" alt="HTML" src="https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png">
+5. HTML <p><img height="30" title="HTML" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png">
 
 6. CSS <p><img height="30" title="CSS" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
 
