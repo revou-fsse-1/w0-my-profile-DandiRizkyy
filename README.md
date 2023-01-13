@@ -5,7 +5,13 @@
 <p align="center"> <img src="./assets/me.jpg" width="350"/></p>
 
 Hello ! 
-<p>My name is Dandi Rizky Eko Saputro, you can call me Dandi. Currently learning Software Engineering at RevoU. 
+<p>My name is Dandi Rizky Eko Saputro, you can call me Dandi. Currently learning Software Engineering at RevoU.
+
+Im based in Surabaya. I was graduated from Business English Study Program (D3) Politeknik Ubaya Surabaya. I love doing "computer" things since elementary school and from this day i will pursuing my dream becoming software engineer and web developer for real :) 
+
+I have strong interest in Programming, Gaming, Digital Marketing, Editting, Voice Acting, Filming, Reading Books, Piano and Classical Music. 
+
+I wish I could mixed them all into something big in the future :>
 
 -----
 ## <p align = "center"> 📫 Connect With Me  
