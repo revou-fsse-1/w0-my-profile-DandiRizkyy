@@ -20,16 +20,16 @@ Hello !
 ![<p align="center">Instagram Photo</p>](./assets/myinstagram.png)
 
 
-- YouTube : <details><summary>Open Link</summary>[Danzyko](https://www.youtube.com/@Danzyko/about)
+- YouTube : <details><summary>Open Link</summary>[<p>Danzyko</p>](https://www.youtube.com/@Danzyko/about)
 ![YouTube Photo](./assets/myyt.png)
 
-- Linktree : <details><summary>Open Link</summary>[link.tree/Danzyko](https://linktr.ee/Danzyko?fbclid=IwAR1lXNo3tazSDnpp9comVpR_2bT0GcANjvOfU1PFdTBi5qZkrdgw0jLNs6M)
+- Linktree : <details><summary>Open Link</summary>[<p>link.tree/Danzyko</p>](https://linktr.ee/Danzyko?fbclid=IwAR1lXNo3tazSDnpp9comVpR_2bT0GcANjvOfU1PFdTBi5qZkrdgw0jLNs6M)
 ![linktree Photo](./assets/mylinktree.png)
 
-- LinkedIn : <details><summary>Open Link</summary>[Dandi Rizky](https://www.linkedin.com/in/dandirizkyy/)
+- LinkedIn : <details><summary>Open Link</summary>[<p>Dandi Rizky</p>](https://www.linkedin.com/in/dandirizkyy/)
 ![Linkedin Photo](./assets/mylinkedin.png)
 
-- Github : <details><summary>Open Link</summary>[DandiRizkyy](https://github.com/DandiRizkyy)
+- Github : <details><summary>Open Link</summary>[<p>DandiRizkyy</p>](https://github.com/DandiRizkyy)
 ![Github Photo](./assets/mygithub.png)
 
 ---
