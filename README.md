@@ -17,9 +17,9 @@ Hello !
 
 - Instagram : <details><summary>Open Link</summary>
 [@dand_ndi](https://www.instagram.com/dand_ndi/?hl=id)
-![<p align = "center">Instagram Photo](./assets/myinstagram.png)
+![<p align = "center" height = "50px">Instagram Photo](./assets/myinstagram.png)
 
-- YouTube : <details><summary>Open Link</summary>[Danzyko](https://www.youtube.com/@Danzyko/about)\
+- YouTube : <details><summary>Open Link</summary>[Danzyko](https://www.youtube.com/@Danzyko/about)
 ![YouTube Photo](./assets/myyt.png)
 
 - Linktree : <details><summary>Open Link</summary>[link.tree/Danzyko](https://linktr.ee/Danzyko?fbclid=IwAR1lXNo3tazSDnpp9comVpR_2bT0GcANjvOfU1PFdTBi5qZkrdgw0jLNs6M)
