@@ -31,6 +31,9 @@ Hello !
 - Github : <details><summary>Open Link</summary>[<p>DandiRizkyy</p>](https://github.com/DandiRizkyy)
 ![Github Photo](./assets/mygithub.png)
 
+- Discord : <details><summary>Open Link</summary>[<p>Dann#4013</p>](https://discord.gg/u838aV7m2E)
+![Discord Photo](./assets/mydiscord.png)
+
 ---
 ## <p align = "center">🎬 Some of My Youtube Videos
 ---
